@@ -76,3 +76,15 @@ a{
   transform: translateX(-50%) scale(1.05);
   box-shadow: 0 8px 20px rgba(0,0,0,0.25);
 }
+.section2{
+  font-size: 25px;  
+  display: flex;
+  justify-content: space-evenly;
+}
+.paragraphe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 16Ppx 50px;
+
+}
